@@ -5,7 +5,7 @@ public class typecast {
         int b;
         a=99;
         b=++a + --a - a++ + a++ - --a;
-        System.out.println(b);123456789ghvuhgvuvugbvygu
+        System.out.println(b);
 
       }
     
